@@ -2,8 +2,7 @@
 
 IndiTag is an innovative online media bias analysis and annotation system that leverages fine-grained bias indicators to dissect and annotate bias in digital content. 
 
-![System Image](./IndiTag/IndiTag/static/system_functionality.png)
-(./ipath/to/your/image.jpg)
+![System Image](IndiTag/IndiTag/static/system_functionality.png)
 
 ## Installation
 
