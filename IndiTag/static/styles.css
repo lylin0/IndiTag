@@ -1,0 +1,144 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 150px; /* Adjust width as needed */
+    height: 100%; /* Full height of the viewport */
+    background-color: #333; /* Background color of the menu */
+    color: #fff; /* Text color of the menu */
+    padding: 20px;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.menu ul {
+    list-style-type: none; /* Remove default list styles */
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    margin-bottom: 10px; /* Adjust spacing between menu items */
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff; /* Text color of menu links */
+}
+
+.menu-item {
+    color: #fff; /* Default text color for menu items */
+}
+
+.menu-item.active {
+    color: #ff0000; /* Color for active menu items (example: red) */
+}
+
+.container {
+    margin-left: 150px; /* Adjust margin to create space for the menu */
+    padding: 20px;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    .menu {
+        width: 100%; /* Full width of the viewport on smaller screens */
+        height: auto;
+        padding: 20px 10px;
+    }
+    .container {
+        margin-left: 0; /* Remove margin on smaller screens */
+    }
+}
+
+textarea {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 300px; /* Set the width */
+    margin: 3px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.bar {
+    height: 20px;
+    margin-bottom: 5px;
+    position: relative;
+    /*border-bottom: 2px solid grey;*/
+}
+
+.bar-container {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.indicator-text {
+    width: 1600px;
+    text-align: left ;
+    padding-right: 10px;
+    font-size: 13px;
+}
+
+.dict-key {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.dict-values {
+    display: none;
+    margin-left: 20px;
+}
+
+.articleContent {
+    overflow: hidden;
+    max-height: 50px; /* Adjust this value based on your needs */
+    transition: max-height 0.3s ease;
+    font-size: 13px;
+}
+
+.toggleButton {
+    font-size: smaller; /* Make the font size smaller */
+    color: grey; /* Set the color to grey */
+    padding: 5px; /* Adjust padding to make the button smaller */
+    background-color: transparent; /* Make the background transparent */
+    border: 1px solid grey; /* Add a grey border */
+    border-radius: 3px; /* Add border radius for rounded corners */
+}
+
+.toggleButton:hover {
+    cursor: pointer; /* Change cursor to pointer on hover */
+    background-color: lightgrey; /* Change background color on hover */
+}
+
+map_underline{
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.gray-underline {
+    text-decoration: underline gray;
+}
+
+.framed-div {
+    border: 2px solid black; /* Set the border thickness and color */
+    padding: 10px; /* Optional: Add padding inside the border */
+}

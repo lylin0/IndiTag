@@ -1,0 +1,251 @@
+{
+      "example1": {
+            "processed_text": "Village calls for stricter gun control State law limits Royal Palm Beach s Parkland response Royal Palm Beach s village council is the latest governing body in Palm Beach County to pass a resolution calling for lawmakers to enact stricter gun measures in the wake of the deadly school shooting in Parkland At its Thursday night meeting the council unanimously approved the resolution The village joins other municipalities that previously passed resolutions including West Palm Beach Boynton Beach and Delray Beach Officials in Welling ton are considering a similar resolution Officials throughout Florida have taken a tougher stance on gun control since the Feb 14 shooting at Marjory Stoneman Douglas High School in Parkland that left 17 people dead But they ve lamented that their hands are tied by a 2011 Flor ida law that punishes local governments that try to pass their own gun control rules It took council members some time Thursday to come to an agreement about the language that should be included in the resolution Councilman Richard Valuntas said he could not approve the resolution as it was presented at the meeting and asked that two lines be struck both of which referred to constitutional rights We don t determine what the constitutional rights of our citizens are he said The specificity of the list was of more concern to Councilman Jeff Hmara who presented a previous draft of the resolu tion as another option for approval It doesn t get us into the details that the current version does he said adding that he would prefer something general yet comprehensive",
+            "processed_data": {
+                  "Officials throughout Florida have taken a tougher stance on gun control since the Feb 14 shooting at Marjory Stoneman Douglas High School in Parkland that left 17 people dead.": [
+                        0,
+                        3,
+                        7
+                  ],
+                  "The village joins other municipalities that previously passed resolutions including West Palm Beach Boynton Beach and Delray Beach.": [
+                        0,
+                        0,
+                        10
+                  ],
+                  "It took council members some time Thursday to come to an agreement about the language that should be included in the resolution.": [
+                        1,
+                        0,
+                        9
+                  ],
+                  "The council unanimously approved the resolution calling for lawmakers to enact stricter gun measures.": [
+                        0,
+                        6,
+                        4
+                  ]
+            },
+            "descriptor_indicator": {
+                  "Officials throughout Florida have taken a tougher stance on gun control since the Feb 14 shooting at Marjory Stoneman Douglas High School in Parkland that left 17 people dead.": [
+                        [
+                              "The Newtown school shooting is mentioned as an example of the need for gun control measures",
+                              0.26982030272483826,
+                              0
+                        ],
+                        [
+                              "Focuses on the need for stronger gun controls and the opposition from the gun lobby",
+                              0.2707851529121399,
+                              1
+                        ],
+                        [
+                              "Provides examples of the proposed gun control measures and mentions the mass shooting in Orlando",
+                              0.2754155695438385,
+                              0
+                        ],
+                        [
+                              "The article presents the gun control laws as a response to the Sandy Hook tragedy and emphasizes the bipartisan support for the legislation.",
+                              0.276627779006958,
+                              0
+                        ],
+                        [
+                              "The article cites the Newtown shooting and the obdurate response from the National Rifle Association as factors that may have ushered in a new legislative era",
+                              0.2772783935070038,
+                              0
+                        ],
+                        [
+                              "Comparing the shooting to Las Vegas, emphasizing the need for gun safety laws",
+                              0.2820900082588196,
+                              1
+                        ],
+                        [
+                              "The article provides examples of other states that have passed gun control legislation in the wake of mass shootings, highlighting Connecticut's place in the national debate.",
+                              0.2887539565563202,
+                              0
+                        ],
+                        [
+                              "The article uses strong language and quotes from officials to emphasize the seriousness of the shooting and the potential consequences.",
+                              0.28891873359680176,
+                              0
+                        ],
+                        [
+                              "Mentions the mass shooting at Newtown, Conn., as a catalyst for the national debate over gun control.",
+                              0.28914064168930054,
+                              0
+                        ],
+                        [
+                              "Mentions Newtown shooting and impact on gun safety measures",
+                              0.2930067181587219,
+                              1
+                        ]
+                  ],
+                  "The village joins other municipalities that previously passed resolutions including West Palm Beach Boynton Beach and Delray Beach.": [
+                        [
+                              "Includes quotes from Governor Rick Scott and Miami-Dade Mayor Carlos Gimenez",
+                              0.3771161437034607,
+                              0
+                        ],
+                        [
+                              "Quotes a city resident and a city councilman expressing their views",
+                              0.4059109389781952,
+                              0
+                        ],
+                        [
+                              "The text includes statements from President Trump, Puerto Rico's governor, and San Juan's mayor",
+                              0.41425272822380066,
+                              0
+                        ],
+                        [
+                              "The article quotes President Obama, White House Press Secretary Josh Earnest, and Florida Governor Rick Scott.",
+                              0.4169141948223114,
+                              0
+                        ],
+                        [
+                              "Cites statements from New York Gov. Andrew Cuomo, Dr. Mary Travis Bassett, and New York Mayor Bill de Blasio",
+                              0.4217905104160309,
+                              0
+                        ],
+                        [
+                              "mentions previous protests over police shootings in other cities",
+                              0.4230910837650299,
+                              0
+                        ],
+                        [
+                              "Quotes from Republican Governor and Democratic Mayor",
+                              0.4230910837650299,
+                              0
+                        ],
+                        [
+                              "provides information on both sides of the issue, mentions protests in other cities",
+                              0.42349129915237427,
+                              0
+                        ],
+                        [
+                              "The article provides examples and statistics related to voter turnout in Florida",
+                              0.4257778227329254,
+                              0
+                        ],
+                        [
+                              "The article provides examples of polls and campaign activities in Florida and Nevada.",
+                              0.426490843296051,
+                              0
+                        ]
+                  ],
+                  "It took council members some time Thursday to come to an agreement about the language that should be included in the resolution.": [
+                        [
+                              "The article uses descriptive language to convey the struggle McConnell faced in getting members of his party to come to a consensus on replacement language",
+                              0.27618956565856934,
+                              0
+                        ],
+                        [
+                              "Uses descriptive language to convey the committee's decision and the differing opinions within the Senate",
+                              0.31574440002441406,
+                              0
+                        ],
+                        [
+                              "GOP leaders insisted on drafting their own version, slowing down the process",
+                              0.3381774127483368,
+                              0
+                        ],
+                        [
+                              "Framework for a deal coming together, negotiators could face heavy lifting, House adjourned for the night, Senate leaders hoping for a vote",
+                              0.34597504138946533,
+                              0
+                        ],
+                        [
+                              "They voiced support for the overall negotiations, though.",
+                              0.35582059621810913,
+                              0
+                        ],
+                        [
+                              "The text uses language such as \"hissed and booed,\" \"naked political necessities,\" and \"doesn't cut the mustard\" to express skepticism about the effectiveness of the agreement.",
+                              0.35663703083992004,
+                              0
+                        ],
+                        [
+                              "Uses language that portrays the meeting as a positive step toward unity, while minimizing any potential disagreements",
+                              0.3605215549468994,
+                              -1
+                        ],
+                        [
+                              "Mention of previous Senate bill debate and amendments, Rubio's amendment on English language requirement",
+                              0.3615801930427551,
+                              0
+                        ],
+                        [
+                              "Lawmakers on Capitol Hill broadly agreed on Tuesday that something should be done",
+                              0.3626471757888794,
+                              0
+                        ],
+                        [
+                              "The language of the deal was obtained by HuffPost",
+                              0.36655741930007935,
+                              0
+                        ]
+                  ],
+                  "The council unanimously approved the resolution calling for lawmakers to enact stricter gun measures.": [
+                        [
+                              "Highlights Obama and Biden's push for legislative action to prevent gun violence, suggesting a focus on stricter gun laws",
+                              0.2611503601074219,
+                              1
+                        ],
+                        [
+                              "Advocates for tighter gun laws and criticizes acceptance of gun violence",
+                              0.26775845885276794,
+                              1
+                        ],
+                        [
+                              "Focuses on the need for stronger gun controls and the opposition from the gun lobby",
+                              0.2693707048892975,
+                              1
+                        ],
+                        [
+                              "The article presents the gun control laws as a response to the Sandy Hook tragedy and emphasizes the bipartisan support for the legislation.",
+                              0.2729489207267761,
+                              0
+                        ],
+                        [
+                              "Obama urges Congress to pass measures to control gun violence and fight homegrown terrorism",
+                              0.28022217750549316,
+                              0
+                        ],
+                        [
+                              "The article cites the Newtown shooting and the obdurate response from the National Rifle Association as factors that may have ushered in a new legislative era",
+                              0.28129130601882935,
+                              0
+                        ],
+                        [
+                              "Emphasizes the need for concrete action and blames inaction by lawmakers for mass shootings.",
+                              0.2820819914340973,
+                              1
+                        ],
+                        [
+                              "Urges support for Obama's Gun Ban Plan",
+                              0.28972846269607544,
+                              1
+                        ],
+                        [
+                              "Lawmakers on Capitol Hill broadly agreed on Tuesday that something should be done",
+                              0.29209503531455994,
+                              0
+                        ],
+                        [
+                              "Democratic senator frustrated with congressional inaction on gun violence, emphasizes need for more gun control",
+                              0.29219871759414673,
+                              1
+                        ]
+                  ]
+            },
+            "descriptor_mapping": {
+                  "Officials throughout Florida have taken a tougher stance on gun control since the Feb 14 shooting at Marjory Stoneman Douglas High School in Parkland that left 17 people dead.": [
+                        "Officials throughout Florida have taken a tougher stance on gun control since the Feb 14 shooting at Marjory Stoneman Douglas High School in Parkland that left 17 people dead."
+                  ],
+                  "The village joins other municipalities that previously passed resolutions including West Palm Beach Boynton Beach and Delray Beach.": [
+                        "The village joins other municipalities that previously passed resolutions including West Palm Beach Boynton Beach and Delray Beach."
+                  ],
+                  "It took council members some time Thursday to come to an agreement about the language that should be included in the resolution.": [
+                        "It took council members some time Thursday to come to an agreement about the language that should be included in the resolution."
+                  ],
+                  "The council unanimously approved the resolution calling for lawmakers to enact stricter gun measures.": [
+                        "The council unanimously approved the resolution calling for lawmakers to enact stricter gun measures."
+                  ]
+            }
+      }
+}

@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IndiTag</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <div class="menu">
+        <!-- Menu items -->
+        <ul>
+            <li><a href="#" class="menu-item" onclick="loadMode(0)">Home</a></li>
+            <li><a href="#" class="menu-item" onclick="loadMode(2)">Example</a></li>
+            <li><a href="#" class="menu-item" onclick="loadMode(1)">IndiTag</a></li>
+            <li><a href="#" class="menu-item" onclick="loadMode(3)">Mapping</a></li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <div id="content"></div>
+    </div>
+
+    <script src="static/script.js"></script>
+    <script>
+        // Get all menu items
+        window.onload = function() {
+            loadMode(0); // Call the loadMode function with parameter 0
+        };
+        var menuItems = document.querySelectorAll('.menu-item');
+
+        // Loop through each menu item and add click event listener
+        menuItems.forEach(function(menuItem) {
+
+            menuItem.addEventListener('click', function(event) {
+                // Remove 'active' class from all menu items
+                menuItems.forEach(function(item) {
+                    item.classList.remove('active');
+                });
+                // Add 'active' class to the clicked menu item
+                menuItem.classList.add('active');
+            });
+        });
+
+    </script>
+
+
+</body>
+</html>
