@@ -13,7 +13,7 @@ For more details about our indicators database, please refer to the paper [IndiV
 - Click on each descriptor to view matching indicators and mapping parts of the original article. The length of the bar for each indicator represents the similarity score between the indicator and the descriptor.
 - Comments can be added and saved together with the analysis result in JSON format.
 2. Support for Additional Customized Mapping
-  The module 'Mapping' introduces an additional feature enabling users to input personalized descriptors and articles to analyze the article from the user’s perspective.
+- The module 'Mapping' introduces an additional feature enabling users to input personalized descriptors and articles to analyze the article from the user’s perspective.
 
 
 ## Installation
@@ -26,13 +26,13 @@ For more details about our indicators database, please refer to the paper [IndiV
 3. Run the application
 
 ## More Details
-@article{lin2024indivec,
+- @article{lin2024indivec,
   title={IndiVec: An Exploration of Leveraging Large Language Models for Media Bias Detection with Fine-Grained Bias Indicators},
   author={Lin, Luyang and Wang, Lingzhi and Zhao, Xiaoyan and Li, Jing and Wong, Kam-Fai},
   journal={arXiv preprint arXiv:2402.00345},
   year={2024}
 }
-@article{lin2024inditag,
+- @article{lin2024inditag,
   title={IndiTag: An Online Media Bias Analysis and Annotation System Using Fine-Grained Bias Indicators},
   author={Lin, Luyang and Wang, Lingzhi and Guo, Jinsong and Li, Jing and Wong, Kam-Fai},
   journal={arXiv preprint arXiv:2403.13446},
