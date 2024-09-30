@@ -4,7 +4,7 @@ IndiTag is an innovative online media bias analysis and annotation system that l
 Users can input text directly into the textbox or upload a file for analysis. The analysis result displays several descriptors based on the provided content, each accompanied by matched indicators and a bar graph indicating the percentage towards 'left', 'center', and 'right'.
 For more details about our indicators database, please refer to the paper [IndiVec](https://arxiv.org/abs/2402.00345), and [IndiTag](https://arxiv.org/abs/2403.13446) about this demo.
 
-![System Image](IndiTag/static/system_functionality.png)
+![System Image](IndiTag/static/system_functionality.jpg)
 
 
 ## Introduction
