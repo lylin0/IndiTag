@@ -32,9 +32,4 @@ For more details about our indicators database, please refer to the paper [IndiV
   journal={arXiv preprint arXiv:2402.00345},
   year={2024}
 }
-- @article{lin2024inditag,
-  title={IndiTag: An Online Media Bias Analysis and Annotation System Using Fine-Grained Bias Indicators},
-  author={Lin, Luyang and Wang, Lingzhi and Guo, Jinsong and Li, Jing and Wong, Kam-Fai},
-  journal={arXiv preprint arXiv:2403.13446},
-  year={2024}
-}
+
