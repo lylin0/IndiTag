@@ -29,7 +29,7 @@ function loadMode(mode) {
             
             <div id="annotationPart" style="display: none;">
                 <div id="comInputPart">
-                    <label for="comInput">Input your annotation comments here:</label>
+                    <label for="comInput">Input your comments here:</label>
                     <br>
                     <input type="text" id="comInput" name="comInput"><br>
                 </div>
