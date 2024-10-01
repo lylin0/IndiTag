@@ -27,7 +27,7 @@ function loadMode(mode) {
             <br>
             <div id="resultPart"></div>
             
-            <div id="annotationPart" style="display: none;">
+            <div id="NotetakingPart" style="display: none;">
                 <div id="comInputPart">
                     <label for="comInput">Input your comments here:</label>
                     <br>
@@ -57,20 +57,20 @@ function loadMode(mode) {
             reader.readAsText(file);
         });
 
-        // Attach event listener to the save button, and save the file of annotation
+        // Attach event listener to the save button, and save the file of note-taking
         document.getElementById('saveButton').addEventListener('click', function() {
-            var anno_com = document.getElementById('comInput').value;
-            all_content[counter]['comments'] = anno_com
+            var note_com = document.getElementById('comInput').value;
+            all_content[counter]['comments'] = note_com
             var filename = 'myindivec.json';
             saveAsJSON(all_content, filename);
         });
         // Add click event listener to the "Add New One" button
         document.getElementById('addNewButton').addEventListener('click', function() {
             // Show the text input and submit button
-            var anno_com = document.getElementById('comInput').value;
-            all_content[counter]['comments'] = anno_com;
+            var note_com = document.getElementById('comInput').value;
+            all_content[counter]['comments'] = note_com;
             var commentpart = document.createElement('p');
-            commentpart.textContent = 'Comment:  ' + anno_com;
+            commentpart.textContent = 'Comment:  ' + note_com;
             document.getElementById('resultPart').appendChild(commentpart);
             document.getElementById('comInput').value = '';
             document.getElementById('testarticleInput').style.display = 'block';
@@ -120,7 +120,7 @@ function loadMode(mode) {
                     document.getElementById('fileInput').style.display = 'none';
 
                     // Show the save button and add new button
-                    document.getElementById('annotationPart').style.display = 'inline-block';
+                    document.getElementById('NotetakingPart').style.display = 'inline-block';
                     document.getElementById('addNewButton').style.display = 'inline-block';
                     document.getElementById('comInputPart').style.display = 'inline-block';
 
